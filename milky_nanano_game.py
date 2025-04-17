@@ -1,4 +1,4 @@
-
+import streamlit as at
 # シーン2：戦場の七七について
 st.write("---")
 st.subheader("シーン2：戦場の七七について")
